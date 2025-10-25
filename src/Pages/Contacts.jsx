@@ -16,7 +16,7 @@ export default function Contacts() {
     <>
       <SmallNav pageName="Contact Us" />
       <ContactUs />
-      <h1>hello</h1>
+      
     </>
   );
 }
